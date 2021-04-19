@@ -1,8 +1,8 @@
 ## PROJECT  NAME 
  - Instagram
-![app](https://github.com/mireille1999/gal/blob/main/myGalleryApp/static/images/gallery_app.png)
-![app](https://github.com/mireille1999/gallery_app/blob/main/myGalleryApp/static/images/gallery_app.png)
-![app](https://github.com/mireille1999/gallery_app/blob/main/myGalleryApp/static/images/gallery_app.png)
+![app](https://raw.githubusercontent.com/mireille1999/Instagram/main/blog/static/blog/img/Screenshot%20from%202021-04-19%2015-58-00.png)
+![app](https://raw.githubusercontent.com/mireille1999/Instagram/main/blog/static/blog/img/Screenshot%20from%202021-04-19%2015-58-17.png)
+![app](https://raw.githubusercontent.com/mireille1999/Instagram/main/blog/static/blog/img/Screenshot%20from%202021-04-19%2023-06-26.png)
 
 ## AUTHOR 
  - MIREILLE MUHAWENIMANA
