@@ -114,7 +114,7 @@ LOGIN_URL = 'login'
 
 ADMIN_SITE_HEADER = "BUDDIES"
 
-TIME_ZONE =  'Asia/Kolkata'
+TIME_ZONE =  'Africa/Kigali'
 
 
 
