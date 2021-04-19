@@ -30,7 +30,7 @@
 
         <div class="container">
           <a class="navbar-brand mr-4"
-             href="{% url 'blog:home' %}"><span class="ncc-title">Insta</span><span class="buddies-title"> gram</span></a>
+             href="{% url 'blog:home' %}"><span class="ncc-title">Mini</span><span class="buddies-title"> gram</span></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse"
                   data-target="#navbarToggle" aria-controls="navbarToggle"
                   aria-expanded="false" aria-label="Toggle navigation">
@@ -51,9 +51,10 @@
                 <a class="nav-item nav-link" href="{% url 'blog:notifications' request.user.username %}">
                   Notification <span class="badge badge-light" style="display: none;" id="notifications-count"></span>
                 </a>
-              {% else %}
                 <a class="nav-item nav-link" href="{% url 'login' %}">Login</a>
                 <a class="nav-item nav-link" href="{% url 'register' %}">Register
+                </a>
+                <a class="nav-item nav-link" href="{% url 'login' %}">Logout
                 </a>
               {% endif %}
             </div>
