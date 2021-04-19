@@ -4,7 +4,7 @@ from django.contrib.auth.models import User
 
 from django.db.models.signals import post_save
 
-#from PIL import Image
+from PIL import Image
 from django.conf import settings
 import os
 

@@ -55,7 +55,7 @@ ROOT_URLCONF = 'instagram_clone.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'instagram_clone/template')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -128,7 +128,7 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 LOGIN_DIRECT_URL = 'index'
-LOGOUT_DIRECT_URL = 'logi'
+LOGOUT_DIRECT_URL = 'login'
 LOGIN_URL = 'user/login/'
 
 # Default primary key field type
