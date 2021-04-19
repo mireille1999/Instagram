@@ -18,7 +18,7 @@
 - to upload pictures to the application.
 - to view their profiles containing all their pictures
 - to follow other users and see their the users timeline.
-- to like a picture and leave a comment on it.
+
 
 ## Know Bugs
 
