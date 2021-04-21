@@ -77,7 +77,7 @@ After extracting the files,
 ## Live link 
 **You can view the project through this link**
 
-
+https://git.heroku.com/miniinstagrammimi.git
 
 ## License 
 * MIT 
